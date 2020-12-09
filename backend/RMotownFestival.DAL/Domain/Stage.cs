@@ -1,4 +1,4 @@
-﻿namespace RMotownFestival.Api.Domain
+﻿namespace RMotownFestival.DAL.Domain
 {
     public class Stage
     {

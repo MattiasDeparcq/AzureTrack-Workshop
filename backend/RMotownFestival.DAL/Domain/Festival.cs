@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace RMotownFestival.Api.Domain
+namespace RMotownFestival.DAL.Domain
 {
     public class Festival
     {

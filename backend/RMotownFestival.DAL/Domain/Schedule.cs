@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace RMotownFestival.Api.Domain
+namespace RMotownFestival.DAL.Domain
 {
     public class Schedule
     {
